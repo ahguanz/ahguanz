@@ -1,4 +1,4 @@
-<h1 align="center">Hello!! 👋, This is Guan :simple_smile:</h1>
+<h1 align="center">Hello!! 👋, This is Guan :smiley:</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **Python & OpenSource**
