@@ -1,6 +1,6 @@
 <h1 align="Left">Hello!! 👋 </h1>
 
-- 🔭 I’m currently working on **Python & OpenSource**
+- 🔭 I’m currently working on **Python & Open Source**
 
 - 🌱 I’m currently learning **JS, HTML, CSS, React**
 
