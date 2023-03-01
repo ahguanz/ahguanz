@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-Bio...
+- 🔭 I’m currently working on **Python & Open Source**
+
+- 🌱 I’m currently learning **JS, HTML, CSS, React**
 
 * 🌍  I'm based in Singapore
 * ✉️  You can contact me at [ahguanz@gmail.com](mailto:ahguanz@gmail.com)
